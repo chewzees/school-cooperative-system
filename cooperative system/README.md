@@ -2,67 +2,7 @@
 
 A PHP system for managing a school cooperative shop.
 
-## Screenshots
-
-### Login
-
-![Login](../docs/screenshots/01-login.png)
-
-### Dashboard
-
-![Dashboard](../docs/screenshots/02-dashboard.png)
-
-### Suppliers
-
-![Suppliers](../docs/screenshots/03-suppliers.png)
-
-### Categories
-
-![Categories](../docs/screenshots/04-categories.png)
-
-### Products
-
-![Products](../docs/screenshots/05-products.png)
-
-### Customers
-
-![Customers](../docs/screenshots/06-customers.png)
-
-### Purchases
-
-![Purchases](../docs/screenshots/07-purchases.png)
-
-### Sales
-
-![Sales](../docs/screenshots/08-sales.png)
-
-### Sales records
-
-![Sales records](../docs/screenshots/09-sales-records.png)
-
-### Sales returns
-
-![Sales returns](../docs/screenshots/10-sales-returns.png)
-
-### Inventory
-
-![Inventory](../docs/screenshots/11-inventory.png)
-
-### Reports
-
-![Reports](../docs/screenshots/12-reports.png)
-
-### Expenses
-
-![Expenses](../docs/screenshots/13-expenses.png)
-
-### Users
-
-![Users](../docs/screenshots/14-users.png)
-
-### Settings
-
-![Settings](../docs/screenshots/15-settings.png)
+Full setup steps, screenshots, and usage are in the [root README](../README.md).
 
 ## Login
 
